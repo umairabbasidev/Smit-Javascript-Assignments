@@ -28,7 +28,7 @@ Below is the live progress update for all chapters:
 | Chapter 1   | ✅ Completed  |
 | Chapter 2   | ✅ Completed  |
 | Chapter 3   | ✅ Completed  |
-| Chapter 4   | ✅ Completed  |
+<!-- | Chapter 4   | ✅ Completed  |
 | Chapter 5   | ✅ Completed  |
 | Chapter 6   | ✅ Completed  |
 | Chapter 7   | ✅ Completed  |
@@ -91,7 +91,7 @@ Below is the live progress update for all chapters:
 | Chapter 64  | ✅ Completed  |
 | Chapter 65  | ✅ Completed  |
 | Chapter 66  | ✅ Completed  |
-| Chapter 67  | 🏁 Coming soon... |
+| Chapter 67  | 🏁 Coming soon... | -->
 
 ---
 
