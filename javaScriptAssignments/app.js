@@ -73,7 +73,7 @@ alert("I  am  trying to learn Javascript from the Book "+ book)
 // Q-8
 // document.write("<h1>Yah! i can write HTML content through Javascript</h1>");
 
-// Q-9 
+// Q-9
 /*
 let str = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 alert(str);
@@ -81,3 +81,35 @@ document.write(str);
 */
 
 // *********** Chapter 2 exercises completed **************
+
+// Chapter 3(VARIABLES FOR NUMBERS)
+
+// Q-1
+/*
+let age = 22;
+alert("I am " + age + " years old");
+*/
+
+// Q-2
+/*
+let count = 14;
+alert("You have visited this site " + count + " times");
+*/
+
+// Q-3
+/*
+let birthYear = 2002;
+document.write(`<p>My birth year is ${birthYear} <br /> Data type of my declared variable is   ${typeof birthYear} </p>`);
+*/
+
+// Q-4
+/* 
+let storeName = "www.xyzClothing.com";
+let visitorName = "John Doe";
+let productName = "T-shirt(s)";
+let productQuantity = 5;
+document.write(`<p><strong>${visitorName}</strong> ordered <strong>${productQuantity} ${productName}</strong> on ${storeName}. </p>`);
+*/
+
+
+// *********** Chapter 3 exercises completed **************
