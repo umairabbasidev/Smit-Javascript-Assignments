@@ -28,13 +28,13 @@ Below is the live progress update for all chapters:
 | Chapter 1   | ✅ Completed  |
 | Chapter 2   | ✅ Completed  |
 | Chapter 3   | ✅ Completed  |
-<!-- | Chapter 4   | ✅ Completed  |
+| Chapter 4   | ✅ Completed  |
 | Chapter 5   | ✅ Completed  |
 | Chapter 6   | ✅ Completed  |
 | Chapter 7   | ✅ Completed  |
 | Chapter 8   | ✅ Completed  |
 | Chapter 9   | ✅ Completed  |
-| Chapter 10  | ✅ Completed  |
+<!-- | Chapter 10  | ✅ Completed  |
 | Chapter 11  | ✅ Completed  |
 | Chapter 12  | ✅ Completed  |
 | Chapter 13  | ✅ Completed  |
