@@ -372,8 +372,9 @@ for (let i = 1; i <= 10; i++) {
 }
 */
 
+// Q-5 
+/*
 let table = document.querySelector("#table");
-
 let sub1 = prompt("Enter your first subject name.", "Science");
 let sub2 = prompt("Enter your second subject name.", "Arts");
 let sub3 = prompt("Enter your third subject name.", "Social Studies");
@@ -431,3 +432,7 @@ table.innerHTML = `
 
 
 `;
+
+*/
+
+// *********** Chapters 6-9 exercises completed (second js assignment task completed) **************
